@@ -2,7 +2,7 @@ package ru.digitalhabbits.homework2.unit;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import ru.digitalhabbits.homework2.LetterCountMergerImpl;
+import ru.digitalhabbits.homework2.impl.LetterCountMergerImpl;
 
 import java.util.HashMap;
 import java.util.Map;

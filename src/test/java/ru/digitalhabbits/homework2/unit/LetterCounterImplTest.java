@@ -2,7 +2,7 @@ package ru.digitalhabbits.homework2.unit;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import ru.digitalhabbits.homework2.LetterCounterImpl;
+import ru.digitalhabbits.homework2.impl.LetterCounterImpl;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.entry;
